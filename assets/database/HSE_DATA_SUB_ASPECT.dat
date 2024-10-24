@@ -1,0 +1,438 @@
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A101', 'Karyawan menggunakan APD yang sudah diberikan oleh perusahaan sesuai standar yang ditetapkan oleh HSE Dept'
+, 4.21052631578947, '001', 'N', 'A1', '001'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A102', 'APD yang diberikan harus dirawat dan dipakai dengan benar', 4.21052631578947
+, '002', 'N', 'A1', '002'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A103', 'Terdapat serah terima APD', 4.21052631578947, '003', 'N', 'A1', '003'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A201', 'Kelengkapan isi kotak P3K sesuai dengan ceklis, tidak kadarluarsa'
+, 4.21052631578947, '004', 'N', 'A2', '004'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A202', 'Ceklis kotak P3K harus diisi sesuai dengan kondisi kotak P3K yang sebenarnya'
+, 4.21052631578947, '005', 'N', 'A2', '005'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A203', 'Pada kotak P3K terpasang PIC kotak P3K dan no.telepon yang dihubungi aktif'
+, 4.21052631578947, '006', 'N', 'A2', '006'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A204', 'Kondisi kotak P3K harus bersih, tidak ada debu, dan cara penyusunan obat rapih'
+, 4.21052631578947, '007', 'N', 'A2', '007'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A205', 'Kotak P3K tidak terkunci', 4.21052631578947, '008', 'N', 'A2', '008'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A206', 'Terdapat daftar penggunaan obat pada kotak P3K', 4.21052631578947
+, '009', 'N', 'A2', '009'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A207', 'Terdapat eyewash dan shower station di gudang bahan kimia, serta ceklis harus update sesuai dengan kondisinya, serta kondisi eyewash station harus bersih dan airnya harus diganti secara teratur'
+, 4.21052631578947, '010', 'N', 'A2', '010'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A301', 'Ruang gerak karyawan tidak terbatas (area proses kerja sempit)', 4.21052631578947
+, '011', 'N', 'A3', '011'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A302', 'Karyawan bekerja secara ergonomi', 4.21052631578947, '012', 'N', 'A3'
+, '012'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A401', 'Ibu hamil tidak boleh bekerja pada posisi kerja berdiri terlalu lama, terpapar bahan kimia, mesin yang bergetar, dan terdapat banyak penumpukan barang '
+, 4.21052631578947, '013', 'N', 'A4', '013'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A402', 'Karyawati hamil harus menggunakan identitas berupa slayer ibu hamil dan kartu ibu hamil'
+, 4.21052631578947, '014', 'N', 'A4', '014'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A501', 'Penerangan/pencahayaan disetiap proses kerja cukup dan sesuai standar'
+, 4.21052631578947, '015', 'N', 'A5', '015'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A502', 'Laju udara (velocity) pada exhaust di pada mesin - mesin tertentu (buffing, exhaust oven, exhaust sablon, dll) cukup dan memenuhi standar'
+, 4.21052631578947, '016', 'N', 'A5', '016'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A503', 'Kebisingan pada mesin ataupun area kerja harus sesuai dengan  standar pemerintah dan HSE'
+, 4.21052631578947, '017', 'N', 'A5', '017'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A601', 'Terdapat SOP, ceklis yang diupdate, dan hasil akhir pengujian kualitas air minum'
+, 4.21052631578947, '018', 'N', 'A6', '018'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'A602', 'Kondisi tangki air minum dan disekitarnya bersih', 4.21052631578947
+, '019', 'N', 'A6', '019'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B101', 'MSDS, CSDS dan label selalu tersedia di area bahan kimia', 1.70212765957446
+, '020', 'N', 'B1', '001'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B102', 'Diarea penyimpanan bahan kimia harus terdapat daftar bahan kimia yang digunakan dan daftar bahan kimia yang dilarang sesuai dengan adidas'
+, 1.70212765957446, '021', 'N', 'B1', '002'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B103', 'Setiap drum dan bahan kimia cair harus diletakkan diatas secondary containment'
+, 1.70212765957446, '022', 'N', 'B1', '003'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B104', 'Selalu tersedia spill kits alat pembersih (berupa kain majun atau sebuk gergaji) untuk tumpahan bahan cair ke lantai'
+, 1.70212765957446, '023', 'N', 'B1', '004'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B105', 'Penyimpanan bahan kimia harus terpisah terutama yang bersifat racun dengan bahan kimia yang bersifat mudah terbakar di area penyimpanan bahan kimia'
+, 1.70212765957446, '024', 'N', 'B1', '005'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B106', 'Setiap wadah atau mangkuk lem/pembersih lainnya selalu dalam keadaan tertutup dan ditempatkan pada dudukan eva yang telah disediakan'
+, 1.70212765957446, '025', 'N', 'B1', '006'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B107', 'Tidak menyimpan bahan kimia cair di botol air minum atau wadah lain yang tidak standar dan tidak boleh ada stok bahan kimia di line produksi'
+, 1.70212765957446, '026', 'N', 'B1', '007'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B108', 'Bahan kimia haruslah dijauhkan dari peralatan mesin dan sumber panas (misal : oven)'
+, 1.70212765957446, '027', 'N', 'B1', '008'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B109', 'Exhaust di area bahan kimia harus berfungsi dengan baik', 1.70212765957446
+, '028', 'N', 'B1', '009'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B110', 'Di dalam gudang bahan kimia/CMR tidak boleh terdapat instalasi listrik serta  terpasang grounding pada secondary containment'
+, 1.70212765957446, '029', 'N', 'B1', '010'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B201', 'Disetiap mesin terdapat pengaman mesin dan berfungsi dengan baik'
+, 1.70212765957446, '030', 'N', 'B2', '011'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B202', 'Karyawan menggunakan mesin sesuai dengan SOP proses kerja (Contoh : pengaman mesin harus digunakan, Karyawan yang mengoperasikan mesin berputar rambut harus diikat)'
+, 1.70212765957446, '031', 'N', 'B2', '012'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B203', 'Terdapat ceklis mesin dan diisi setiap hari sesuai dengan kondisi mesin'
+, 1.70212765957446, '032', 'N', 'B2', '013'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B204', 'Disetiap mesin terpasang IKM, safety sign, validasi mesin, sign mesin beresiko tinggi dalam bahasa indonesia, dan terpasang stiker HSE Cek untuk mesin yang sudah dikaizen'
+, 1.70212765957446, '033', 'N', 'B2', '014'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B205', 'Karyawan yang mengoperasikan mesin embos dilarang untuk menggunakan aksesoris logam'
+, 1.70212765957446, '034', 'N', 'B2', '015'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B206', 'Karyawan dilarang untuk mengoperasikan mesin berdua, kecuali mesin yang memang harus dioperasikan berdua'
+, 1.70212765957446, '035', 'N', 'B2', '016'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B207', 'Mesin harus dalam kondisi normal tidak rusak (tidak ada oli bocor, suara abnormal, '
+, 1.70212765957446, '036', 'N', 'B2', '017'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B208', 'Pada mesin yang rusak atau dalam perbaikan harus terpasang LOTO'
+, 1.70212765957446, '037', 'N', 'B2', '018'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B209', 'Harus terdapat record LOTO, jika ada penggunaan LOTO', 1.70212765957446
+, '038', 'N', 'B2', '019'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B210', 'Karyawan dan mekanik yang menggunakan mesin beresiko tinggi harus mendapatkan training dan memiliki kartu lisensi mesin beresiko tinggi dan masih berlaku'
+, 1.70212765957446, '039', 'N', 'B2', '020'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B301', 'Lift harus terpasang perijinan dari pemerintah dan kondisi lift baik tidak ada kerusakan dan ceklis lift harus update'
+, 1.70212765957446, '040', 'N', 'B3', '021'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B302', 'Terdapat sign lift dan harus dalam kondisi baik', 1.70212765957446
+, '041', 'N', 'B3', '022'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B303', 'Pada handlift harus terpasang ijin dan ceklis', 1.70212765957446
+, '042', 'N', 'B3', '023'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B304', 'Harus terpasang SOP dan PIC lift dan handlift', 1.70212765957446
+, '043', 'N', 'B3', '024'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B401', 'Pada tabung gas terpasang flashback arrestor dan kondisi penempatan baik terpisah dengan material lain'
+, 1.70212765957446, '044', 'N', 'B4', '025'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B402', 'Terdapat ceklis pemeriksaan kondisi tabung gas yang diisi secara regular'
+, 1.70212765957446, '045', 'N', 'B4', '026'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B403', 'Tabung gas terpasang label bahan kimia sesuai jenisnya', 1.70212765957446
+, '046', 'N', 'B4', '027'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B501', 'Jalur jalan/jalur evakuasi tidak boleh terhalang apapun barang dan terdapat tanda panah evakuasi'
+, 1.70212765957446, '047', 'N', 'B5', '028'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B502', 'Lebar jalan harus minimal 1,1 m dan pintu keluar harus dalam kondisi terbuka saat ada proses kerja didalamnya.'
+, 1.70212765957446, '048', 'N', 'B5', '029'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B503', 'Terdapat peta evakuasi pada setiap pintu masuk dan terdapat struktur ERG'
+, 1.70212765957446, '049', 'N', 'B5', '030'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B504', 'Tanda panah arah evakuasi (escape route) harus dalam kondisi baik (masih jelas/tidak pudar)'
+, 1.70212765957446, '050', 'N', 'B5', '031'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B505', 'Tidak boleh terdapat barang menempel pada mesin, jarak barang dengan blower/mesin ¡H m dan tidak boleh terdapat barang mudah terbakar dibawah blower'
+, 1.70212765957446, '051', 'N', 'B5', '032'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B506', 'Diarea gudang (warehouse ataupun finishgood) didekat sumber listrik ataupun lampu penerangan harus terjaga jarak kosong lebih dari 1 meter , kecuali lampu yang terpasang adalah lampu anti ledak'
+, 1.70212765957446, '052', 'N', 'B5', '033'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B507', 'Kipas angin line produksi (0.5hp/375W ke atas(unit menggunakan satuan watt)) di bawahnya harus terjaga jarak kosong lebih dari 1m dan tidak boleh ada suara abnormal'
+, 1.70212765957446, '053', 'N', 'B5', '034'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B508', 'Disekeliling kontrol panel listrik utama gedung produksi/gudang harus diberi jarak kosong lebih dari 1m, didepan panel distribusi listrik harus terjaga jarak kosong lebih dari 1m.'
+, 1.70212765957446, '054', 'N', 'B5', '035'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B601', 'Alat pemadam (APAR) tersedia dan siap pakai, bersih serta tidak kadaluarsa dan gantungan tidak rusak'
+, 1.70212765957446, '055', 'N', 'B6', '036'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B602', 'Ceklis APAR harus tersedia dan diperiksa (diisi) setiap bulan', 1.70212765957446
+, '056', 'N', 'B6', '037'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B603', 'Peralatan pencegahan kebakaran tidak boleh terhalang barang apapun (APAR, hydrant, alarm)'
+, 1.70212765957446, '057', 'N', 'B6', '038'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B604', 'Terdapat lampu exit dan emergency disetiap pintu keluar utama', 1.70212765957446
+, '058', 'N', 'B6', '039'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B605', 'Lampu exit dan emergency dalam kondisi baik dan terdapat ceklis yang diisi setiap bulan'
+, 1.70212765957446, '059', 'N', 'B6', '040'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B606', 'Alarm dalam kondisi baik tidak ada eror dan terdapat ceklis yang diisi setiap bulan'
+, 1.70212765957446, '060', 'N', 'B6', '041'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B607', 'Kondisi hydrant baik, tidak ada kebocoran, perlengkapan didalam box hydrant lengkap serta terdapat ceklis yang diisi setiap bulan'
+, 1.70212765957446, '061', 'N', 'B6', '042'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B701', 'Kabel listrik dan selang kompresor harus rapi dan tidak menghalangi jalan'
+, 1.70212765957446, '062', 'N', 'B7', '043'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B702', 'Kabel listrik harus terskun, terlindungi (ada selongsong kabel), tidak terkelupas, dan lampu indikator pada panel maupun legran harus menyala serta semua mesin terpasang sistem grounding '
+, 1.70212765957446, '063', 'N', 'B7', '044'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B703', 'Suhu thermostat pada mesin oven memenuhi standar (maiksimal kenaikan 20 dari suhu mesin)'
+, 1.70212765957446, '064', 'N', 'B7', '045'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B704', 'Exhaust fan didalam mesin oven dan panel kontrol dan motor berfungsi dengan baik, tidak kotor, dan tidak terdapat barang didalamnya dan disekitar area mesin bersuhu tinggi tidak boleh terdapat barang '
+, 1.70212765957446, '065', 'N', 'B7', '046'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'B705', 'Steker listrik ataupun colokan listrik harus terpasang permanen dan tidak goyang'
+, 1.70212765957446, '066', 'N', 'B7', '047'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C101', 'Lantai dalam keadaan bersih, tidak ada sampah dan tumpahan apapun'
+, 2.85714285714285, '067', 'N', 'C1', '001'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C102', 'Terdapat PIC pembersihan toilet sesuai dengan jenis kelamin, jadwal pembersihan toilet dan ceklis harus di isi sesuai kondisi toilet'
+, 2.85714285714285, '068', 'N', 'C1', '002'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C103', 'Fasilitas didalam toilet dalam kondisi baik (Kran air, bak dan closet)'
+, 2.85714285714285, '069', 'N', 'C1', '003'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C104', 'Kondisi toilet bersih dan lantai tidak licin serta terdapat tempat sampah di dalam toilet'
+, 2.85714285714285, '070', 'N', 'C1', '004'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C105', 'Sekat antar toilet cukup tinggi untuk menjaga privasi', 2.85714285714285
+, '071', 'N', 'C1', '005'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C106', 'Penerangan didalam toilet cukup', 2.85714285714285, '072', 'N', 'C1'
+, '006'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C201', 'Pemisahan limbah berdasarkan jenisnya', 2.85714285714285, '073', 'N'
+, 'C2', '007'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C202', 'Tempat sampah terjaga kebersihannya, tidak ada sampah yang berserakan.'
+, 2.85714285714285, '074', 'N', 'C2', '008'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C203', 'Kemasan limbah tidak boleh rusak atauKemasan limbah tidak boleh rusak atau korosif dan terpasang label limbah'
+, 2.85714285714285, '075', 'N', 'C2', '009'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C204', 'Wadah dan kemasan limbah B3 harus ditempeli tanda pengenal limbah B3 atau label limbah.'
+, 2.85714285714285, '076', 'N', 'C2', '010'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C301', 'Sampah harus dibersihkan sesuai dengan peraturan di area kerja masing-masing (misal jika ada peraturan pada shift terakhir pekerja harus membersihkan sampah, saat dicek sudah tidak ada lagi sampah).'
+, 2.85714285714285, '077', 'N', 'C3', '011'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C302', 'Kemasan penyimpanan limbah tidak ada kerusakan, tidak ada korosi, tidak ada kebocoran.'
+, 2.85714285714285, '078', 'N', 'C3', '012'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C401', 'Kemasan penyimpanan limbah tidak ada kerusakan, tidak ada korosi, tidak ada kebocoran.'
+, 2.85714285714285, '079', 'N', 'C4', '013'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C402', 'Ember pengumpul air limbah ditempatkan di lokasi standar.', 2.85714285714285
+, '080', 'N', 'C4', '014'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C403', 'Harus disimpan dalam keadaan baik dan dilengkapi dengan penutup, tempat penyimpanan harus bersih dan tidak bocor.'
+, 2.85714285714285, '081', 'N', 'C4', '015'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C404', 'Peralatan yang menghasilkan air limbah biasanya tidak mengalami kerusakan atau kebocoran.'
+, 2.85714285714285, '082', 'N', 'C4', '016'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C501', 'Tidak boleh terdapat kebocoran (oli, obat bahan kimia, air limbah) di area pre-treatment'
+, 2.85714285714285, '083', 'N', 'C5', '017'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C502', 'Mesin dalam kondisi normal (semua indikator berfungsi dengan baik)'
+, 2.85714285714285, '084', 'N', 'C5', '018'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C503', 'Terdapat pencatatan produksi lumpur.', 2.85714285714285, '085', 'N'
+, 'C5', '019'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C504', 'Ceklis harus update', 2.85714285714285, '086', 'N', 'C5', '020'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C601', 'Hood local exhaust (exhaust bahan kimia) dalam kondisi baik', 2.85714285714285
+, '087', 'N', 'C6', '021'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C602', 'Sambungan pipa exhaust harus dalam kondisi baik', 2.85714285714285
+, '088', 'N', 'C6', '022'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C603', 'Tidak ada akumulasi debu di lantai wadah pengumpul debu.', 2.85714285714285
+, '089', 'N', 'C6', '023'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C604', 'Wadah pengumpul debu tidak dalam kondisi tersumbat.', 2.85714285714285
+, '090', 'N', 'C6', '024'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C701', 'Fasilitas pengolahan gas buang harus dalam kondisi bersih', 2.85714285714285
+, '091', 'N', 'C7', '025'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C702', 'Peralatan pengontrol polusi udara beroperasi secara normal (misalnya, kipas angin berjalan, tidak ada kebisingan dan getaran yang tidak normal)'
+, 2.85714285714285, '092', 'N', 'C7', '026'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C703', 'Fasilitas perawatan VOC dalam kondisi baik (Misalnya, karbon aktif ditempatkan di menara adsorpsi karbon aktif, dan diganti sesuai kebutuhan.)'
+, 2.85714285714285, '093', 'N', 'C7', '027'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'C704', 'Scrubber dalam kondisi baik (Misalnya, pH kualitas air menara cuci berada dalam kisaran spesifikasi, dan apakah sirkulasi air di menara berjalan, dan mengganti air sirkulasi)'
+, 2.85714285714285, '094', 'N', 'C7', '028'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D101', 'Mesin dan lampu yang tidak terpakai, dalam keadaan mati', 5.33333333333333
+, '095', 'N', 'D1', '001'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D201', 'Sambungan pada kompressor atau instalasi kompresor angin, tidak ada yang bocor'
+, 5.33333333333333, '096', 'N', 'D2', '002'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D202', 'Terpasang ijin kompressor yang masih berlaku', 5.33333333333333, '097'
+, 'N', 'D2', '003'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D203', 'Ceklis kompressor diisi', 5.33333333333333, '098', 'N', 'D2', '004'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D204', 'Terdapat maintenance record', 5.33333333333333, '099', 'N', 'D2'
+, '005'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D301', 'Instalasi dan terminasi kabel', 5.33333333333333, '100', 'N', 'D3'
+, '006'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D302', 'Kondisi Breaker', 5.33333333333333, '101', 'N', 'D3', '007'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D303', 'Contactor/overload', 5.33333333333333, '102', 'N', 'D3', '008'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D304', 'Dinamo  (motor)', 5.33333333333333, '103', 'N', 'D3', '009'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D305', 'Gear box/ pully/Pilow blok', 5.33333333333333, '104', 'N', 'D3', '010'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D306', 'Pergantian Van belt', 5.33333333333333, '105', 'N', 'D3', '011'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D307', 'Pelumasan oli', 5.33333333333333, '106', 'N', 'D3', '012'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D308', 'Duct hose', 5.33333333333333, '107', 'N', 'D3', '013'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D309', 'Pipa paralon', 5.33333333333333, '108', 'N', 'D3', '014'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'D310', 'Pergantian Fliter (karbon Aktif)', 5.33333333333333, '109', 'N', 'D3'
+, '015'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'E101', 'Terdapat kasus kecelakaan kerja Non-LTI dan LTI dengan lost day = 3 hari atau kasus kebakaran yang menggunakan 1 APAR'
+, -30, '110', 'N', 'E1', '001'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'E102', 'Terdapat kasus kecelakaan kerja LTI dengan lost day > 3 hari atau kasus kebakaran yang menggunakan 2 APAR atau lebih'
+, -45, '111', 'N', 'E1', '002'); 
+INSERT INTO HSE_DATA_SUB_ASPECT ( FACT_NO, SASPECT_NO, SASPECT_NM, VAL_WEIGHT, SORT_SEQ, STOP_MK,
+ASPECT_NO, DIM_SEQ ) VALUES ( 
+'0228', 'E103', 'Tidak terdapat kasus kecelakaan kerja dan tidak ada kasus kebakaran'
+, 20, '112', 'N', 'E1', '003'); 
+commit;
+ 

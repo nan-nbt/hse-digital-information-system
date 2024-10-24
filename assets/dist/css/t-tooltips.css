@@ -1,0 +1,34 @@
+.t-tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted #333;
+}
+
+.t-tooltip .t-tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 110%;
+}
+
+.t-tooltip .t-tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent #333 transparent transparent;
+}
+
+.t-tooltip:hover .t-tooltiptext {
+  visibility: visible;
+}
